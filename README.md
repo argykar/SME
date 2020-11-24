@@ -6,6 +6,7 @@
 Package for the Lab [notes](https://github.com/argykar/Statistical-Methods-in-Epidemiology).
 
 **Installation and importing:**
+
 ```{r}
 # install devtools package if needed
 if (!require(devtools) install.packages("devtools")
@@ -17,8 +18,8 @@ Contains functions and datasets of the class of Statistical Methods in Epidemiol
 
 Currently supports:
 1. functions
- + `r_table()` (*@achstam*) Like STATA output for logistic and Poisson regression models.
- + `table_stata()` (*@argykar*) Like STATA output for conditional logistic regression models.
+ + `r_table()` (*@achstam*) STATA-like output for logistic and Poisson regression models.
+ + `table_stata()` (*@argykar*) STATA-like output for conditional logistic regression models.
  + `display()` (*@argykar*) Display dataframes in html/latex form. Uses kable functions.
 2. datasets
   + wha1110
@@ -32,6 +33,7 @@ Currently supports:
   + bdendo11
   + typhi
   
-  TODO: tests for general purpose
+  TODO: - tests for general purpose
+        - examples for functions
   
   

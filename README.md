@@ -33,7 +33,8 @@ Currently supports:
   + bdendo11
   + typhi
   
-  TODO: + tests for general purpose
-        + examples for functions
+TODO: 
+  + tests for general purpose
+  + examples for functions
   
   

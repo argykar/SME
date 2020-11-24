@@ -8,9 +8,9 @@ Package for the Lab [notes](https://github.com/argykar/Statistical-Methods-in-Ep
 
 **Installation and importing:**
 ```{r}
+# install devtools package if needed
+if (!require(devtools) install.packages("devtools")
 devtools::install_github("argykar/SME")
-
-import library
 library(SME)
 ```
 

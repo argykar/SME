@@ -6,10 +6,11 @@
 
 Package for the Lab [notes](https://github.com/argykar/Statistical-Methods-in-Epidemiology).
 
-**Installation:**
+**Installation and importing:**
 ```{r}
 devtools::install_github("argykar/SME")
-#import library
+
+import library
 library(SME)
 ```
 

@@ -1,8 +1,7 @@
 # Statistical Methods in Epidemiology package
 ## aka SME
 
-## Authors: 
-### Argiris Karanikolaou, Achilleas Stamoulopoulos
+## Authors: Argiris Karanikolaou(@argykar), Achilleas Stamoulopoulos(@achstam)
 
 Package for the Lab [notes](https://github.com/argykar/Statistical-Methods-in-Epidemiology).
 

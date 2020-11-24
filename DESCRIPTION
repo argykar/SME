@@ -1,0 +1,21 @@
+Package: SME
+Title: Helper package for Statistical Methods in Epidemiology Labs (@ NKUA)
+Version: 0.0.0.9000
+Authors@R: 
+    c(person(given = "Achilleas",
+           family = "Stamoulopoulos",
+           role = c("aut", "cre"),
+           email = "achstam@gmail.com"),
+      person(given = "Argiris",
+           family = "Karanikolaou",
+           role = c("aut"),
+           email = "arkaranikol@gmail.com"))
+Description: For making our lives easier while writing the labs,
+            we created functions along the way. This package serves 
+            the purpose of gathering these functions all together.
+License: MIT + file LICENSE
+Imports: methods, kableExtra, dplyr, haven, utils, tibble, magrittr, stats
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

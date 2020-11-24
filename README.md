@@ -1,6 +1,7 @@
 # SME
 ## Authors: Argiris Karanikolaou, Achilleas Stamoulopoulos
 Package for the Lab notes. 
+
 Contains functions and datasets of the class of Statistical Methods in Epidemiology.
 
 Currently supports:

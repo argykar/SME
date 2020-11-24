@@ -7,7 +7,7 @@ Package for the Lab [notes](https://github.com/argykar/Statistical-Methods-in-Ep
 
 **Installation and importing:**
 
-```{r}
+```r
 # install devtools package if needed
 if (!require(devtools) install.packages("devtools")
 devtools::install_github("argykar/SME")
@@ -33,7 +33,7 @@ Currently supports:
   + bdendo11
   + typhi
   
-  TODO: - tests for general purpose
-        - examples for functions
+  TODO: + tests for general purpose
+        + examples for functions
   
   

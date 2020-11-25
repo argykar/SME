@@ -19,7 +19,7 @@ Contains functions and datasets of the class of Statistical Methods in Epidemiol
 Currently supports:
 1. functions
  + `r_table()` (*@achstam*) STATA-like output for logistic and Poisson regression models.
- + `table_stata()` (*@argykar*) STATA-like output for conditional logistic regression models.
+ + `table_stata()` (*@argykar* + *@achstam*) STATA-like output for conditional logistic regression models.
  + `display()` (*@argykar*) Display dataframes in html/latex form. Uses kable functions.
 2. datasets
   + wha1110

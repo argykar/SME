@@ -14,7 +14,7 @@ Description: For making our lives easier while writing the labs,
             we created functions along the way. This package serves 
             the purpose of gathering these functions all together.
 License: MIT + file LICENSE
-Imports: haven, methods, kableExtra, dplyr, utils, tibble, magrittr, stats
+Imports: methods, kableExtra, dplyr, utils, tibble, haven, magrittr, stats
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
